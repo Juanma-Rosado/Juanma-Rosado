@@ -7,7 +7,7 @@ Aquí subo lo que voy haciendo mientras aprendo: ejercicios, prácticas y proyec
 ### 📚 Qué estoy aprendiendo
 
 - **Java**: fundamentos, programación orientada a objetos y estructuras de control
-- **Python**: funciones, colecciones de datos y POO
+- **Python**: bucles, funciones, colecciones de datos y POO
 - **HTML y CSS**
 
 ### 📂 Repositorios
@@ -15,6 +15,7 @@ Aquí subo lo que voy haciendo mientras aprendo: ejercicios, prácticas y proyec
 | Repo | Contenido |
 |---|---|
 | [programacion-1DAW](https://github.com/Juanma-Rosado/programacion-1DAW) | Ejercicios y prácticas de Java de 1º DAW, organizados por temas |
+| [python-2SMR](https://github.com/Juanma-Rosado/python-2SMR) | Ejercicios, prácticas y exámenes de Python de 2º SMR: bucles, funciones, colecciones y POO |
 
 ### 🛠️ Herramientas
 
